@@ -1,28 +1,15 @@
-## Hi there 👋
-
-<!--
-**harshityadav7/harshityadav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there 👋
 
 I'm a passionate cybersecurity and networking professional with a strong foundation in both theoretical and practical aspects of the field. My journey in cybersecurity began with a solid academic background, and I've since augmented my skills with a variety of industry-recognized certifications.
 
 ## 🎓 Qualifications
 - **Master of Computer Applications (MCA) in Cyber Security and Forensics**
-  - Specialized in defensive security, digital forensics, and incident response.
+  - Specialized in offensive security, defensive security, digital forensics, and incident response.
 
 ## 📜 Certifications
+- **Offensive penetration testing**
+  - Proficient in offensive penetration testing.   
+
 - **SOC Analyst Certification**
   - Proficient in threat analysis, log analysis, incident handling, and malware analysis.
   
